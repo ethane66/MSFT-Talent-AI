@@ -1,0 +1,7 @@
+streamlit
+torch
+pysentimiento
+pandas
+matplotlib
+seaborn
+plotly
